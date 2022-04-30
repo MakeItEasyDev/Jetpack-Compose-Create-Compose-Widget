@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ComposeWidget</string>
+
+    <string name="glasses_of_water_format">Glasses of Water:</string>
+    <string name="goal_met">You\'ve met the goal!</string>
+    <string name="daily_glass_goal">Daily Glass Goal:</string>
+</resources>
